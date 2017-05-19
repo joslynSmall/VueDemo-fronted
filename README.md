@@ -1,6 +1,6 @@
 # fronted-demo
 
-> vue的一个demo，使用vue-cli脚手架+axios_router进行实际意义上的后端访问的demo
+> vue的一个demo，使用vue-cli脚手架+axios+router进行实际意义上的后端访问的demo
 
 ## Build Setup
 
